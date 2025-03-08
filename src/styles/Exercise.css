@@ -1,0 +1,10 @@
+.exercise-page{
+    margin: 6% 10% 4% 8%;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 50% 50%;
+    font-family: "McLaren", sans-serif;
+}
+a{
+    color: #FF1493;
+}
